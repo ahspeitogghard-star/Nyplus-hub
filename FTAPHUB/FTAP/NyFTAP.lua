@@ -1,9 +1,9 @@
-_G.OrionLib = loadstring(game:HttpGet('https://raw.githubusercontent.com/blackhzxp-tech/library/refs/heads/main/orion%20lib'))()
+_G.OrionLib = loadstring(game:HttpGet('https://raw.githubusercontent.com/ahspeitogghard-star/Nyplus-hub/refs/heads/main/FTAPHUB/FTAP/Library.lua'))()
 
 local v19 = {
     gru = true,
     papafigorito = true,
-    XWZ_black1 = true,
+    money_sit = true,
 }
 
 local function v20(v304)
