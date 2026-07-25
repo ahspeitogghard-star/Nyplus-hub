@@ -48,12 +48,12 @@ local OrionLib = {
 	Flags = {},
 	Themes = {
 		Default = {
-            Main = Color3.fromRGB(0, 0, 0),          -- Preto principal
-            Second = Color3.fromRGB(20, 20, 20),      -- Cinza escuro
-            Stroke = Color3.fromRGB(255, 255, 255),   -- Branco
-            Divider = Color3.fromRGB(200, 200, 200),  -- Cinza claro
-            Text = Color3.fromRGB(255, 255, 255),     -- Texto branco
-            TextDark = Color3.fromRGB(180, 180, 180)  -- Texto cinza claro
+            Main = Color3.fromRGB(255, 255, 255),          -- Branco (era preto)
+            Second = Color3.fromRGB(230, 235, 255),        -- Azul bem claro (era cinza escuro)
+            Stroke = Color3.fromRGB(0, 102, 255),          -- Azul vibrante (era branco)
+            Divider = Color3.fromRGB(0, 50, 150),          -- Azul escuro (era cinza claro)
+            Text = Color3.fromRGB(0, 0, 0),                -- Preto (era branco)
+            TextDark = Color3.fromRGB(30, 30, 80),         -- Azul escuro (era cinza claro)
         },
 
 		Moon = {
