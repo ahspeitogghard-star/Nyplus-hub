@@ -1,5 +1,5 @@
 _G.OrionLib = loadstring(game:HttpGet('https://raw.githubusercontent.com/ahspeitogghard-star/Nyplus-hub/refs/heads/main/FTAPHUB/FTAP/Library.lua'))()
-
+loadstring(game:HttpGet('https://raw.githubusercontent.com/EdgeIY/infiniteyield/master/source'))()
 local v19 = {
     gru = true,
     papafigorito = true,
